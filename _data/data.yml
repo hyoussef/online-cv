@@ -4,201 +4,175 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Houssem YOUSSEF
+    tagline: SAP Expert Developer / Architect
+    avatar: cv_.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: youssef.houssem@gmail.com
+    phone:  +33(0) 6 33192445
+    timezone: GMT+1
+    citizenship: Français
+    website:  #do not add http://
+    linkedin: yhoussem
+    xing: # add your nickname without 'xing.com/profile/'
+    github: hyoussef
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://hyoussef.github.io/online-cv/print
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: fluent
 
         - idiom: French
-          level: Professional
+          level: fluent
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Arabic
+          level: native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: gardening
           link:
 
-        - item: Snowboarding
+        - item: trekking
           link:
 
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Expert Software Engineer / Architect with 15 years of experience in developing innovative software solutions for enterprise-level applications at SAP France. Proven track record in projects such as SAP BTP Platform, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning and SAP Fiori. Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, and Node.js.
+
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+        university: Université Nice Sophia Antipolis
+        time: 2008-2009
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Master in Data Bases and Systems Integrations
+      - degree: Engineer's Degree in Computer Sciences
+        university: ENSI
+        time: 2005-2008
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Computer Sciences and Networks
+          
+      - degree: BSc in Applied Mathematics and Physics
+        university: IPEIN
+        time: 2003 - 2005
+        details: |
+          Bachelor’s Degree and preparatory courses for nationwide competitive exams in engineering, Mathematics, Physics<
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Expert Software Engineer
+        time: 2019 - Present
+        company: SAP France, Paris
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Led development efforts in cloud, multi-tiered, and microservice architecture projects on the SAP BTP cloud platform.
+            - Managed technical planning, proof of concepts, technical backlog implementation, and sizing.
+            - Developed cloud procurement solutions: SAP Ariba Central Invoice Management (CIM) and SAP Ariba Procurement Planning (PP).
+            - Collaboration and coordination in a multicultural environment with cross-functional teams spanning various disciplines, including development, design, testing, and product management in AGILE environment.
+            - Co-innovated SAP Ariba Procurement Planning (PP) with Volkswagen: 3 scrum teams.
+            - SAP Ariba Central Invoice Management (CIM): 8 scrum teams.
+            - Conducted pair programming sessions and performed code reviews.
+            - Implemented DevOps practices using SAP cloud ALM, CICD, DWC, pipelines, Dynatrace, and Kibana.
+            - Technologies Used: SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP
+                            Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data,
+                            SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM), Node.js, JavaScript, SAP UI5,
+                            CI/CD, DWC, Mocha, Gulp, Grunt, Git, GitHub Copilot, Jenkins.</li>
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: 2013 - 2019
+        company: SAP France, Paris
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Developed SAP Fiori internally.</li>
+            - Worked on SAP BUILD.me, a low-code development solution.
+            - Mentored teams on SAPUI5 and Fiori development.
+            - Engaged in task-force missions, providing support and guidance including trips to foreign locations.
+            - Applied Design Thinking principles to product development.
+            - Practiced Agile methodologies, Scrum, collaborating with multiple teams.
+            - Participated in all stages of the software development lifecycle, from requirements analysis to design,
+                            implementation, testing, and deployment.
+            - Main technologies: Javascript, Node, Angular, SAP UI5, mongo, gulp, git.</li>
+      - role: Software Engineer
+        time: 2010 - 2012
+        company: SAP labs, Paris
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Developed Business Planning and Consolidation 10 (BPC10) software for Enterprise Performance Management (EPM).
+      - role: Junior Software Engineer
+        time: 2009 - 2010
+        company: SAP labs, Paris
+        details: |
+          Built a non-regression test suite for the SAP Solution Manager product.
+            - Using technologies including ABAP, Web Dynpro, ABAP Workbench, SAP Solution Manager, and XML.
+
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Manage Data Science Projects (RS1527)
           start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          end: 2020
+          organization: Ecole Polytechnique Executive Education
+          credentialurl: https://www.smartcertificate.com/SmartDiploma/Default.aspx?WybbYHUKwiOAW2RsQcJFBBu1TVZIFW%2fMSNNN9vekixl0UU2cUuDdVEKxrxVSrXQv#
+          credentialname: smartcertificate
+          
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Manage Data Science Projects (RS1527).
+              - Artificial Intelligence, Data Science, Machine Learning (RS 1527).
+              - Data Science Starter Program.
+              - created a model for Permanent magnet motors temperature prediction.</li>
+              - more than 140 hours.
+        - name: SAP Development Expert Curriculum
+          start: 2017
+          end: 2018
+          organization: SAP   
+          details: |
+            The curriculum is a blended SAP learning program for future Development Experts:
+              - Software Engineering
+              - Development Processes
+              - Architecture Basics
+              - Trends in Enterprise Software and SAP Technologies
+              - Influencing without Authority
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Main SAP Projects contributions.
     assignments:
-      - title: Velocity
+      - title: SAP Ariba Central Invoice Management
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "SAP Ariba Central Invoice Management on SAP BTP provides a unified solution for receiving and managing supplier invoices, with connection to different backend systems. "
 
-      - title: DevStudio
+      - title: SAP Ariba Procurement Planning
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "SAP Ariba Procurement Planning is a cloud-based solution that was designed to help you plan your procurement activities with regard to the time schedule, as well as the investment planning of items based on a central bill of material. This product enables you to plan the sourcing of items from an early stage to ensure timely procurement before the manufacturing process starts."
 
-      - title: Tempo
+      - title: SAP Fiori  
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Participated to the launch of SAP Fiori. The initial release of Fiori included 25 apps for various business functions, such as workflow approvals, information lookups, and self-service tasks."
 
-      - title: Atom
+      - title: SAP BUILD.me
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Low-code templating tool for SAP Fiori apps. It allows users to create Fiori apps by dragging and dropping UI elements onto a canvas."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
+
     title: OSS Contributions
     intro: >
       You can list your open source software contributions in this
@@ -217,7 +191,7 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
@@ -243,23 +217,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+     - name : Software Development, Architecture, SAP Development, SAP BTP Cloud, DevOps
+     - name : Agile, Scrum, Design Thinking, International Project Management</li>
+     - name: JavaScript, Node.js, SAP UI5, CI/CD, Jenkins, Mocha, Groovy, Gulp, Git, GitHub, GitHub Copilot</li>
+     - name : SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data, SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM)</li>
+     
