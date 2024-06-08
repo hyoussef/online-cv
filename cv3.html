@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <title>Houssem YOUSSEF - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            align-content: center;
+            justify-content: space-evenly;
+            align-items: center;
+        }
+        .profile-picture-container {
+            display: flex;
+            justify-content: center;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            overflow: hidden;
+            margin-right: 20px;
+        }
+        .profile-picture {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            object-position: top;
+        }
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin: 10px 0;
+        }
+        .contact-info p, .contact-info a {
+            margin: 0;
+        }
+        .main-content {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .main-content > div {
+            width: 48%;
+        }
+        h1, h2, h3, h4 {
+            color: #444;
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 0;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        hr {
+            border: 0;
+            height: 1px;
+            background: #ccc;
+            margin: 20px 0;
+        }
+        .section-title {
+            margin-top: 40px;
+        }
+        .experience-header {
+            position: relative;
+            padding-left: 20px;
+            margin-bottom: 20px;
+        }
+        .experience-header::before {
+            content: '\f192';
+            font-family: "Font Awesome 5 Free"; /* Use "Font Awesome 5 Brands" for brand icons */
+            font-weight: 900; /* Use 400 for regular weight, 900 for solid style */
+            position: absolute;
+            left: 0;
+            top: 5px;
+            width: 10px;
+            height: 10px;
+
+        }
+        .experience-header p {
+            margin: 0;
+            font-style: italic;
+            color: gray;
+        }   
+        .experience-connector {
+            position: relative;
+            padding-left: 20px;
+            margin-bottom: 20px;
+        }
+        .experience-connector::before {
+            content: '';
+            position: absolute;
+            left: 5px;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: #ccc;
+        }
+        .experience-chaining::before {
+            content: "\f0c1"; /* Replace with the Unicode of the FontAwesome icon you want to use */
+            font-family: "Font Awesome 5 Free"; /* Use "Font Awesome 5 Brands" for brand icons */
+            font-weight: 900; /* Use 400 for regular weight, 900 for solid style */
+            display: inline-block;
+            margin-right: 10px; /* Adjust as needed */
+            vertical-align: middle;
+        }
+      
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <div class="header">
+            <div class="profile-picture-container"><img src="assets/images/cv_.jpeg" alt="Profile" class="profile-picture"></div>
+
+            <h1>Houssem YOUSSEF</h1>
+            <div class="contact-info">
+                <p><i class="fas fa-map-marker-alt"></i> Paris, Ile-de-France, France</p>
+                <p><i class="fas fa-envelope"></i> <a href="mailto:youssef.houssem@gmail.com">youssef.houssem@gmail.com</a></p>
+                <p><i class="fas fa-phone"></i> +33(0) 6 33192445</p>
+                <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/yhoussem">in/yhoussem</a></p>
+            </div>
+        </div>
+        
+        <hr>
+
+        <h2 class="section-title">SUMMARY</h2>
+        <p>Expert Software Engineer / Architect with 15 years of experience in developing innovative software solutions for enterprise-level applications at SAP France. Proven track record in projects such as SAP BTP Platform, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning and SAP Fiori. Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, and Node.js.</p>
+
+        <hr>
+
+        <div class="main-content">
+            <div class="left-column">
+                <h2 class="section-title">EDUCATION</h2>
+
+                <p><strong>Ecole Polytechnique Executive Education</strong> | 2019 - 2020</p>
+                <ul>
+                    <li>Artificial Intelligence, Data Science, Machine Learning (RS 1527)</li>
+                    <li>Data Science Starter Program</li>
+                </ul>
+
+                <p><strong>Université Nice Sophia Antipolis</strong> | 2008 - 2009</p>
+                <ul>
+                    <li>Master in Data Bases and Systems Integrations</li>
+                </ul>
+
+                <p><strong>ENSI</strong> | 2005 - 2008</p>
+                <ul>
+                    <li>Engineer's Degree in Computer Sciences</li>
+                </ul>
+
+                <p><strong>IPEIN</strong> | 2003 - 2005</p>
+                <ul>
+                    <li>Bachelor’s Degree and preparatory courses for nationwide competitive exams in engineering, Mathematics, Physics</li>
+                </ul>
+
+                <hr>
+
+                <h2 class="section-title">CERTIFICATIONS</h2>
+
+                <p><strong>Ecole Polytechnique Executive Education</strong> | 2021</p>
+                <ul>
+                    <li>Manage Data Science Projects (RS1527)</li>
+                    <li>Artificial Intelligence, Data Science, Machine Learning (RS 1527)</li>
+                    <li>Data Science Starter Program</li>
+                    <li>created a model for Permanent magnet motors temperature prediction.</li>
+                    <li>more than 140 hours.</li>
+                </ul>
+
+                <p><strong>SAP Labs</strong> | 2018</p>
+                <ul>
+                    <li>SAP Development Expert Curriculum</li>
+                </ul>
+
+                <hr>
+
+                <h2 class="section-title">SKILLS</h2>
+                <ul>
+                    <li><strong>Technical Skills:</strong> Software Development, Architecture, SAP Development, SAP BTP Cloud, DevOps</li>
+                    <li><strong>Methodologies:</strong> Agile, Scrum, Design Thinking, International Project Management</li>
+                    <li><strong>Programming:</strong> JavaScript, Node.js, SAP UI5, CI/CD, Jenkins, Mocha, Groovy, Gulp, Git, GitHub, GitHub Copilot</li>
+                    <li><strong>SAP:</strong> SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data, SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM)</li>
+                </ul>
+                <hr>
+
+                <h2 class="section-title">LANGUAGES</h2>
+                <ul>
+                    <li>English (Fluent)</li>
+                    <li>French (Fluent)</li>
+                    <li>Arabic (Fluent)</li>
+                </ul>
+            </div>
+
+            <div class="right-column">
+                <h2 class="section-title">EXPERIENCE</h2>
+
+                <div class="experience-header">
+                    <h3>SAP France</h3>
+                    <p>15 yrs</p>
+                </div>
+                
+                <div class="experience-connector">
+                    <h4>Expert Software Engineer</h4>
+                    <p>March 2019 - Present | Levallois-Perret</p>
+                    <ul>
+                        <li>Led development efforts in cloud, multi-tiered, and microservice architecture projects on the SAP BTP cloud
+                            platform.</li>
+                        <li>Managed technical planning, proof of concepts, technical backlog implementation, and sizing.</li>
+                        <li>Developed cloud procurement solutions: SAP Ariba Central Invoice Management (CIM) and SAP Ariba Procurement
+                            Planning (PP).</li>
+                        <li>Collaboration and coordination in a multicultural environment with cross-functional teams spanning various
+                            disciplines, including development,
+                            design, testing, and product management in AGILE environment.</li>
+                        <li>Co-innovated SAP Ariba Procurement Planning (PP) with Volkswagen: 3 scrum teams.</li>
+                        <li>SAP Ariba Central Invoice Management (CIM): 8 scrum teams.</li>
+                        <li>Conducted pair programming sessions and performed code reviews.</li>
+                        <li>Implemented DevOps practices using SAP cloud ALM, CICD, DWC, pipelines, Dynatrace, and Kibana.</li>
+                        <li><strong>Technologies Used:</strong> SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP
+                            Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data,
+                            SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM), Node.js, JavaScript, SAP UI5,
+                            CI/CD, DWC, Mocha, Gulp, Grunt, Git, GitHub Copilot, Jenkins.</li>
+                    </ul>
+                </div>
+                <div class="experience-chaining"> </div>
+                <div class="experience-connector">
+                    <h4>Senior Software Engineer</h4>
+                    <p>January 2013 - March 2019 | Levallois-Perret</p>
+                    <ul>
+                        <li>Developed SAP Fiori internally.</li>
+                        <li>Worked on SAP BUILD.me, a low-code development solution.</li>
+                        <li>Mentored teams on SAPUI5 and Fiori development.</li>
+                        <li>Engaged in task-force missions, providing support and guidance including trips to foreign locations.</li>
+                        <li>Applied Design Thinking principles to product development.</li>
+                        <li>Practiced Agile methodologies, Scrum, collaborating with multiple teams.</li>
+                        <li>Participated in all stages of the software development lifecycle, from requirements analysis to design,
+                            implementation, testing, and deployment.</li>
+                        <li>Main technologies: Javascript, Node, Angular, SAP UI5, mongo, gulp, git.</li>
+                    </ul>
+                </div>
+                <div class="experience-chaining"> </div>
+
+                <div class="experience-connector">
+                    <h4>Software Engineer</h4>
+                    <p>March 2010 - December 2012 | Levallois-Perret</p>
+                    <ul>
+                        <li>Developed Business Planning and Consolidation 10 (BPC10) software for Enterprise Performance Management
+                            (EPM).</li>
+                    </ul>
+                </div>
+                <div class="experience-chaining"> </div>
+
+                <div class="experience-connector">
+                    <h4>Associate Developer</h4>
+                    <p>June 2009 - April 2010 | Sophia Antipolis</p>
+                    <ul>
+                        <li>Built a non-regression test suite for the SAP Solution Manager product.</li>
+                        <li>Using technologies including ABAP, Web Dynpro, ABAP Workbench, SAP Solution Manager, and XML..</li>
+                    </ul>
+                </div>
+
+                <div class="experience-header">
+                    <h3>Internship Trainee</h3>
+                </div>
+
+                <div class="experience-connector">
+                    <p><strong>Veolia Water</strong> | February 2009 - May 2009 | Nice</p>
+                    <ul>
+                        <li>Contributed to a co-innovation project with MBDS, developing an internal tool for managing water consumption
+                            for large customers.</li>
+                        <li>Data integration using Microsoft Business Intelligence solution's Integration Services (ETL process).</li>
+                    </ul>
+                </div>
+
+                <div class="experience-connector">
+                    <p><strong>LSIS</strong> | February 2008 - July 2008 | Marseille</p>
+                    <ul>
+                        <li>Studying a multi-criteria ranking approach :PROMETHEE ranking method.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
