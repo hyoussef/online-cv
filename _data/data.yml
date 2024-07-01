@@ -125,14 +125,14 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: AP Certified - Integration Developer
+        - name: SAP Certified - Integration Developer
           start: 2024
           organization: SAP
-          credentialurl: https://www.credly.com/badges/c4c1139e-656a-4f8b-ba71-8b6f01fa7aa8/public_url
+          credentialurl: www.credly.com/badges/c4c1139e-656a-4f8b-ba71-8b6f01fa7aa8/public_url
           credentialname: Credly
           
           details: |
-            Developing with SAP Integration Suite
+            Fundamental and core knowledge required of the SAP Integration Developer profile.
 
         - name: Manage Data Science Projects (RS1527)
           start: 2019
