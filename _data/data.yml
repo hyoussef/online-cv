@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Houssem YOUSSEF
-    tagline: SAP Development Expert/Architect
+    tagline: SAP Development Expert
     avatar: cv_.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Expert Software Engineer / Architect with 15 years of experience in developing innovative software solutions for enterprise-level applications at SAP France. Proven track record in projects such as SAP BTP Platform, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning and SAP Fiori. Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, and Node.js.
+      Expert/staff Software Engineer with 15 years of experience in developing innovative software solutions for enterprise applications at SAP France. I have a proven record of success across major cloud projects (SAP BTP Platform) including SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, and SAP Fiori. Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, and Node.js.
 
 education:
     title: Education
@@ -69,38 +69,38 @@ education:
         university: ENSI
         time: 2005-2008
         details: |
-          Computer Sciences and Networks
+          Computer Sciences Engineering Degree.
           
       - degree: BSc in Applied Mathematics and Physics
         university: IPEIN
         time: 2003 - 2005
         details: |
-          Bachelor’s Degree and preparatory courses for nationwide competitive exams in engineering, Mathematics, Physics<
+          Bachelor’s Degree and preparatory courses for nationwide competitive exams in engineering, Mathematics, Physics.
 
 experiences:
     title: Experiences
     info:
-      - role: Expert Software Engineer
+      - role: Expert/staff Software Engineer
         time: 2019 - Present
         company: SAP France, Paris
         details: |
           Led development efforts in cloud, multi-tiered, and microservice architecture projects on the SAP BTP cloud platform.
-            - Managed technical planning, proof of concepts, technical backlog implementation, and sizing.
-            - Developed cloud procurement solutions: SAP Ariba Central Invoice Management (CIM) and SAP Ariba Procurement Planning (PP).
+            - Technical planning, proof of concepts, technical backlog implementation, and sizing.
+            - Develop and hands on sap cloud solutions: SAP Ariba Central Invoice Management (CIM) and SAP Ariba Procurement Planning (PP).
             - Collaboration and coordination in a multicultural environment with cross-functional teams spanning various disciplines, including development, design, testing, and product management in AGILE environment.
-            - Co-innovated SAP Ariba Procurement Planning (PP) with Volkswagen: 3 scrum teams.
-            - SAP Ariba Central Invoice Management (CIM): 8 scrum teams.
+            - Co-innovated SAP Ariba Procurement Planning (PP) with Volkswagen: co-innovation project including 3 internals scrum teams.
+            - SAP Ariba Central Invoice Management (CIM): more than 140 developer, product managers, UX, QAs.
             - Conducted pair programming sessions and performed code reviews.
-            - Implemented DevOps practices using SAP cloud ALM, CICD, DWC, pipelines, Dynatrace, and Kibana.
+            - Implemented DevOps practices using CICD, Deploy With Confidence DWC, pipelines, Dynatrace and Kibana.
             - Technologies Used: SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP
                             Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data,
                             SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM), Node.js, JavaScript, SAP UI5,
-                            CI/CD, DWC, Mocha, Gulp, Grunt, Git, GitHub Copilot, Jenkins.</li>
+                            CI/CD, DWC, Mocha, Gulp, Grunt, Git (enterprise), GitHub Copilot, Jenkins.
       - role: Senior Software Engineer
         time: 2013 - 2019
         company: SAP France, Paris
         details: |
-          Developed SAP Fiori internally.</li>
+          Developed SAP Fiori internally.
             - Worked on SAP BUILD.me, a low-code development solution.
             - Mentored teams on SAPUI5 and Fiori development.
             - Engaged in task-force missions, providing support and guidance including trips to foreign locations.
@@ -108,7 +108,7 @@ experiences:
             - Practiced Agile methodologies, Scrum, collaborating with multiple teams.
             - Participated in all stages of the software development lifecycle, from requirements analysis to design,
                             implementation, testing, and deployment.
-            - Main technologies: Javascript, Node, Angular, SAP UI5, mongo, gulp, git.</li>
+            - Main technologies: Javascript, Node, Angular, SAP UI5, mongo, gulp, git.
       - role: Software Engineer
         time: 2010 - 2012
         company: SAP labs, Paris
@@ -129,8 +129,7 @@ certifications:
           start: 2024
           organization: SAP
           credentialurl: www.credly.com/badges/c4c1139e-656a-4f8b-ba71-8b6f01fa7aa8/public_url
-          credentialname: Credly
-          
+          credentialname: Credly 
           details: |
             Fundamental and core knowledge required of the SAP Integration Developer profile.
 
@@ -140,19 +139,17 @@ certifications:
           organization: Ecole Polytechnique Executive Education
           credentialurl: www.smartcertificate.com/SmartDiploma/Default.aspx?WybbYHUKwiOAW2RsQcJFBBu1TVZIFW%2fMSNNN9vekixl0UU2cUuDdVEKxrxVSrXQv#
           credentialname: smartcertificate
-          
           details: |
-            Manage Data Science Projects (RS1527).
               - Artificial Intelligence, Data Science, Machine Learning (RS 1527).
               - Data Science Starter Program.
-              - created a model for Permanent magnet motors temperature prediction.</li>
-              - more than 140 hours.
+              - created a model for Permanent magnet motors temperature prediction.
+              - 1 year program with more than 140 hours.
         - name: SAP Development Expert Curriculum
           start: 2017
           end: 2018
           organization: SAP   
           details: |
-            The curriculum is a blended SAP learning program for future Development Experts:
+            The curriculum is a blended SAP learning program for Development Experts:
               - Software Engineering
               - Development Processes
               - Architecture Basics
@@ -185,7 +182,7 @@ skills:
 
     toolset:
      - name : Software Development, Architecture, SAP Development, SAP BTP Cloud, DevOps
-     - name : Agile, Scrum, Design Thinking, International Project Management</li>
-     - name: JavaScript, Node.js, SAP UI5, CI/CD, Jenkins, Mocha, Groovy, Gulp, Git, GitHub, GitHub Copilot</li>
-     - name : SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data, SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM)</li>
+     - name : Agile, Scrum, Design Thinking, International Project Management, Pair Programming, Code Review
+     - name: JavaScript, Node.js, SAP UI5, CI/CD, Jenkins, Mocha, Groovy, Gulp, Git, GitHub, GitHub Copilot, Dynatrace, Kibana
+     - name : SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data, SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM)
      
