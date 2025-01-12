@@ -1,0 +1,90 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: MAISSA BARKIA
+    tagline: Eleve
+    avatar: Maissa.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: maissa.barkia22@gmail.com
+    phone:  +33(0) 641877682
+    timezone: GMT+1
+    citizenship: Français
+    website:  #do not add http://
+    linkedin:
+    xing: # add your nickname without 'xing.com/profile/'
+    github:
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Anglais
+          level: intermédiaire
+        - idiom: Français
+          level: natif
+        - idiom: Espagnole
+          level: débutant
+       
+
+    interests:
+      title: Centre d'intérêts
+      info:
+        - item: Voyage et visite de nouveau pays et culture.
+          link:
+        - item: Pratique perfectionniste de la pâtisserie.
+          link:
+
+        - item: Intérêt pour la theatre et le sport.
+          link:
+        - item: Intérêt pour les animaux.
+          link:
+
+
+career-profile:
+    title: Profil
+    summary: |
+      Élève de 3ème au Collège Louis Augustin Bosc à Saint Prix, je suis actuellement à la recherche d'un stage d'observation dans le domaine médical du 16 au 20 décembre 2024. Je suis une eleve serieuse et soucieuse de bien faire. Je pense que ces qualités me permettront de mener à bien les tâches qui me seront confiées dans le domaine medical. Je suis également très motivée et j'ai hâte de découvrir le monde du travail.
+education:
+    title: Scolarité
+    info:
+      - degree: Collegienne
+        university: College Louis Augustin Bosc
+        time: 2021 - Présent
+        details: 
+      - degree: Eleve
+        university: École Primaire Jules Ferry
+        time: 2016-2021
+        details: 
+          
+          
+experiences:
+    title: Experiences
+    info:
+      - role: Stage linguistique d'anglais
+        time: Ete 2022
+        company: Malte
+        details: |
+          Stage linguistique d'anglais à Malte. Cours d'anglais et activités culturelles en anglais.
+
+
+skills:
+      title: Compétences et Maîtrise
+      toolset:
+       - name : Cuisine
+       - name : Patesserie
+       
