@@ -3,186 +3,88 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Houssem YOUSSEF
-    tagline: SAP Development Expert
-    avatar: cv_.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: MAISSA BARKIA
+    tagline: Eleve
+    avatar: Maissa.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: youssef.houssem@gmail.com
-    phone:  +33(0) 6 33192445
+    email: maissa.barkia22@gmail.com
+    phone:  +33(0) 641877682
     timezone: GMT+1
     citizenship: Français
     website:  #do not add http://
-    linkedin: yhoussem
+    linkedin:
     xing: # add your nickname without 'xing.com/profile/'
-    github: hyoussef
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://hyoussef.github.io/online-cv/hyoussef-github-io-online-cv-.pdf
+    pdf:
 
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: fluent
-
-        - idiom: French
-          level: fluent
-
-        - idiom: Arabic
-          level: native
+        - idiom: Anglais
+          level: intermédiaire
+        - idiom: Français
+          level: natif
+        - idiom: Espagnole
+          level: débutant
+       
 
     interests:
-      title: Interests
+      title: Centre d'intérêts
       info:
-        - item: gardening
+        - item: Voyage et visite de nouveau pays et culture.
+          link:
+        - item: Pratique perfectionniste de la pâtisserie.
           link:
 
-        - item: trekking
+        - item: Intérêt pour la theatre et le sport.
+          link:
+        - item: Intérêt pour les animaux.
           link:
 
 
 career-profile:
-    title: Career Profile
+    title: Profil
     summary: |
-      Expert/staff Software Engineer with 15 years of experience in developing innovative software solutions for enterprise applications at SAP France. I have a proven record of success across major cloud projects (SAP BTP Platform) including SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, and SAP Fiori. Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, and Node.js.
-
+      Élève de 3ème au Collège Louis Augustin Bosc à Saint Prix, je suis actuellement à la recherche d'un stage d'observation dans le domaine médical du 16 au 20 décembre 2024. Je suis une eleve serieuse et soucieuse de bien faire. Je pense que ces qualités me permettront de mener à bien les tâches qui me seront confiées dans le domaine medical. Je suis également très motivée et j'ai hâte de découvrir le monde du travail.
 education:
-    title: Education
+    title: Scolarité
     info:
-      - degree: MSc in Computer Science
-        university: Université Nice Sophia Antipolis
-        time: 2008-2009
-        details: |
-          Master in Data Bases and Systems Integrations
-      - degree: Engineer's Degree in Computer Sciences
-        university: ENSI
-        time: 2005-2008
-        details: |
-          Computer Sciences Engineering Degree.
+      - degree: Collegienne
+        university: College Louis Augustin Bosc
+        time: 2021 - Présent
+        details: 
+      - degree: Eleve
+        university: École Primaire Jules Ferry
+        time: 2016-2021
+        details: 
           
-      - degree: BSc in Applied Mathematics and Physics
-        university: IPEIN
-        time: 2003 - 2005
-        details: |
-          Bachelor’s Degree and preparatory courses for nationwide competitive exams in engineering, Mathematics, Physics.
-
+          
 experiences:
     title: Experiences
     info:
-      - role: Expert/staff Software Engineer
-        time: 2019 - Present
-        company: SAP France, Paris
+      - role: Stage linguistique d'anglais
+        time: Ete 2022
+        company: Malte
         details: |
-          Led development efforts in cloud, multi-tiered, and microservice architecture projects on the SAP BTP cloud platform.
-            - Technical planning, proof of concepts, technical backlog implementation, and sizing.
-            - Develop and hands on sap cloud solutions: SAP Ariba Central Invoice Management (CIM) and SAP Ariba Procurement Planning (PP).
-            - Collaboration and coordination in a multicultural environment with cross-functional teams spanning various disciplines, including development, design, testing, and product management in AGILE environment.
-            - Co-innovated SAP Ariba Procurement Planning (PP) with Volkswagen: co-innovation project including 3 internals scrum teams.
-            - SAP Ariba Central Invoice Management (CIM): more than 140 developer, product managers, UX, QAs.
-            - Conducted pair programming sessions and performed code reviews.
-            - Implemented DevOps practices using CICD, Deploy With Confidence DWC, pipelines, Dynatrace and Kibana.
-            - Technologies Used: SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP
-                            Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data,
-                            SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM), Node.js, JavaScript, SAP UI5,
-                            CI/CD, DWC, Mocha, Gulp, Grunt, Git (enterprise), GitHub Copilot, Jenkins.
-      - role: Senior Software Engineer
-        time: 2013 - 2019
-        company: SAP France, Paris
-        details: |
-          Developed SAP Fiori internally.
-            - Worked on SAP BUILD.me, a low-code development solution.
-            - Mentored teams on SAPUI5 and Fiori development.
-            - Engaged in task-force missions, providing support and guidance including trips to foreign locations.
-            - Applied Design Thinking principles to product development.
-            - Practiced Agile methodologies, Scrum, collaborating with multiple teams.
-            - Participated in all stages of the software development lifecycle, from requirements analysis to design,
-                            implementation, testing, and deployment.
-            - Main technologies: Javascript, Node, Angular, SAP UI5, mongo, gulp, git.
-      - role: Software Engineer
-        time: 2010 - 2012
-        company: SAP labs, Paris
-        details: |
-          Developed Business Planning and Consolidation 10 (BPC10) software for Enterprise Performance Management (EPM).
-      - role: Junior Software Engineer
-        time: 2009 - 2010
-        company: SAP labs, Paris
-        details: |
-          Built a non-regression test suite for the SAP Solution Manager product.
-            - Using technologies including ABAP, Web Dynpro, ABAP Workbench, SAP Solution Manager, and XML.
+          Stage linguistique d'anglais à Malte. Cours d'anglais et activités culturelles en anglais.
 
-
-certifications:
-      title: Certifications
-      list:
-        - name: SAP Certified - Integration Developer
-          start: 2024
-          organization: SAP
-          credentialurl: www.credly.com/badges/c4c1139e-656a-4f8b-ba71-8b6f01fa7aa8/public_url
-          credentialname: Credly 
-          details: |
-            Fundamental and core knowledge required of the SAP Integration Developer profile.
-
-        - name: Manage Data Science Projects (RS1527)
-          start: 2019
-          end: 2020
-          organization: Ecole Polytechnique Executive Education
-          credentialurl: www.smartcertificate.com/SmartDiploma/Default.aspx?WybbYHUKwiOAW2RsQcJFBBu1TVZIFW%2fMSNNN9vekixl0UU2cUuDdVEKxrxVSrXQv#
-          credentialname: smartcertificate
-          details: |
-              - Artificial Intelligence, Data Science, Machine Learning (RS 1527).
-              - Data Science Starter Program.
-              - created a model for Permanent magnet motors temperature prediction.
-              - 1 year program with more than 140 hours.
-        - name: SAP Development Expert Curriculum
-          start: 2017
-          end: 2018
-          organization: SAP   
-          details: |
-            The curriculum is a blended SAP learning program for Development Experts:
-              - Software Engineering
-              - Development Processes
-              - Architecture Basics
-              - Trends in Enterprise Software and SAP Technologies
-              - Influencing without Authority
-
-projects:
-    title: Projects
-    intro: >
-      Main SAP Projects contributions.
-    assignments:
-      - title: SAP Ariba Central Invoice Management
-        link: "#hook"
-        tagline: "SAP Ariba Central Invoice Management on SAP BTP provides a unified solution for receiving and managing supplier invoices, with connection to different backend systems. "
-
-      - title: SAP Ariba Procurement Planning
-        link: "#"
-        tagline: "SAP Ariba Procurement Planning is a cloud-based solution that was designed to help you plan your procurement activities with regard to the time schedule, as well as the investment planning of items based on a central bill of material. This product enables you to plan the sourcing of items from an early stage to ensure timely procurement before the manufacturing process starts."
-
-      - title: SAP Fiori  
-        link: "#"
-        tagline: "Participated to the launch of SAP Fiori. The initial release of Fiori included 25 apps for various business functions, such as workflow approvals, information lookups, and self-service tasks."
-
-      - title: SAP BUILD.me
-        link: "#"
-        tagline: "Low-code templating tool for SAP Fiori apps. It allows users to create Fiori apps by dragging and dropping UI elements onto a canvas."
 
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-     - name : Software Development, Architecture, SAP Development, SAP BTP Cloud, DevOps
-     - name : Agile, Scrum, Design Thinking, International Project Management, Pair Programming, Code Review
-     - name: JavaScript, Node.js, SAP UI5, CI/CD, Jenkins, Mocha, Groovy, Gulp, Git, GitHub, GitHub Copilot, Dynatrace, Kibana
-     - name : SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data, SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM)
-     
+      title: Compétences et Maîtrise
+      toolset:
+       - name : Cuisine
+       - name : Patesserie
+       
