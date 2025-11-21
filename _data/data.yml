@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Expert/staff Software Engineer with 15 years of experience in developing innovative software solutions for enterprise applications at SAP France. I have a proven record of success across major cloud projects (SAP BTP Platform) including SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, and SAP Fiori. Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, and Node.js.
+      Expert/staff Software Engineer with 16 years of experience in developing innovative software solutions for enterprise applications at SAP France. I have a proven record of success across major cloud projects (SAP BTP Platform) including SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, and SAP Fiori. Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, Node.js. Specialized in AI and Machine Learning with 140+ hours of formal training from École Polytechnique paris X since 2019, complemented by SAP Business AI certifications and AI Developer Foundation Program. 
 
 education:
     title: Education
@@ -133,17 +133,37 @@ certifications:
           details: |
             Fundamental and core knowledge required of the SAP Integration Developer profile.
 
-        - name: Manage Data Science Projects (RS1527)
+        - name: Exploring the SAP Business AI Portfolio
+          start: 2024
+          organization: SAP
+          credentialname: SAP Learning
+          details: |
+              - Successfully completed the Learning Journey "Exploring SAP Business AI Portfolio".
+              - Understands key components of SAP Business AI strategy including Joule, AI Foundation, and Generative AI Hub.
+              - Knowledgeable about ethical AI principles core to SAP's AI strategy and development practices.
+              - Able to articulate and pitch the value of SAP Business AI to stakeholders.
+
+        - name: AI Developer Foundation Program
+          start: 2024
+          organization: SAP
+          credentialname: SAP Learning
+          details: |
+              - Successfully completed the AI Developer Foundation Program.
+              - Equipped with AI-first mindset and practical skills for developing AI use cases.
+              - Skills validated: Artificial Intelligence, Generative AI Day-to-day Practice, Software Development Life Cycle.
+              - Program designed to upskill development teams in adopting AI technologies.
+
+        - name: AI & Machine Learning Program
           start: 2019
           end: 2020
-          organization: Ecole Polytechnique Executive Education
+          organization: École Polytechnique Executive Education
           credentialurl: www.smartcertificate.com/SmartDiploma/Default.aspx?WybbYHUKwiOAW2RsQcJFBBu1TVZIFW%2fMSNNN9vekixl0UU2cUuDdVEKxrxVSrXQv#
           credentialname: smartcertificate
           details: |
-              - Artificial Intelligence, Data Science, Machine Learning (RS 1527).
-              - Data Science Starter Program.
-              - created a model for Permanent magnet motors temperature prediction.
-              - 1 year program with more than 140 hours.
+              - Comprehensive program in Artificial Intelligence, Machine Learning, and Data Science (RS 1527).
+              - Data Science Starter Program with hands-on project experience.
+              - Developed a machine learning model for Permanent Magnet Motors temperature prediction.
+              - Completed more than 140 hours of intensive AI/ML training and coursework in early 2019.
         - name: SAP Development Expert Curriculum
           start: 2017
           end: 2018
@@ -183,7 +203,7 @@ skills:
     toolset:
      - name : Software Development, Architecture, SAP Development, SAP BTP Cloud, DevOps
      - name : Agile, Scrum, Design Thinking, International Project Management, Pair Programming, Code Review
-     - name: JavaScript, Node.js, SAP UI5, CI/CD, Jenkins, Mocha, Groovy, Gulp, Git, GitHub, GitHub Copilot, Dynatrace, Kibana
+     - name: AI & Machine Learning, Generative AI, SAP Business AI, AI Development, Data Science, Machine Learning Models, Ethical AI
      - name: JavaScript, Node.js, SAP UI5, CI/CD, Jenkins, Mocha, Groovy, Gulp, Git, GitHub, GitHub Copilot, Dynatrace, Kibana
      - name : SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data, SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM)
      
