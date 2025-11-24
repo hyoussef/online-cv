@@ -183,7 +183,6 @@ certifications:
 projects:
     title: Projects
     intro: >
-      Main SAP Projects contributions.
     assignments:
       - title: SAP Ariba Central Invoice Management
         link: "#hook"
@@ -195,11 +194,11 @@ projects:
 
       - title: SAP Fiori  
         link: "#"
-        tagline: "Participated to the launch of SAP Fiori. The initial release of Fiori included 25 apps for various business functions, such as workflow approvals, information lookups, and self-service tasks."
+        tagline: "Fiori is the the new SAP Paradigm to transform the SAP User Experience. Participated to the launch of SAP Fiori. The initial release of Fiori included 25 apps for various business functions such as self-service tasks."
 
       - title: SAP BUILD.me
         link: "#"
-        tagline: "Low-code templating tool for SAP Fiori apps. It allows users to create Fiori apps by dragging and dropping UI elements onto a canvas."
+        tagline: "Low-code templating tool for SAP Fiori apps. It allows users to create Fiori apps by dragging and dropping UI elements."
 
 skills:
     title: Skills &amp; Proficiency
