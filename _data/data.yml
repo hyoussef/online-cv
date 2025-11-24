@@ -17,7 +17,7 @@ sidebar:
     phone:  +33(0) 6 33192445
     timezone: GMT+1
     citizenship: Français
-    website:  #do not add http://
+    website:  www.credly.com/users/houssem-youssef #do not add http://
     linkedin: yhoussem
     xing: # add your nickname without 'xing.com/profile/'
     github: hyoussef
@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Expert/staff Software Engineer with 16 years of experience in developing innovative software solutions for enterprise applications at SAP France. I have a proven record of success across major cloud projects (SAP BTP Platform) including SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, and SAP Fiori. Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, Node.js. Specialized in AI and Machine Learning with 140+ hours of formal training from École Polytechnique paris X since 2019, complemented by SAP Business AI certifications and AI Developer Foundation Program. 
+      Expert/staff Software Engineer with 16 years of experience in developing innovative software solutions for enterprise applications at SAP. I have a proven record of success across major cloud projects (SAP BTP Platform) including SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, and SAP Fiori. Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, Node.js. Specialized in AI and Machine Learning with 140+ hours of formal training from École Polytechnique paris X since 2019, complemented by SAP Business AI certifications and AI Developer Foundation Program. 
 
 education:
     title: Education
@@ -101,14 +101,13 @@ experiences:
         company: SAP France, Paris
         details: |
           Developed SAP Fiori internally.
-            - Worked on SAP BUILD.me, a low-code development solution.
-            - Mentored teams on SAPUI5 and Fiori development.
+            - Mentor teams on SAP UI5 and Fiori development.
             - Engaged in task-force missions, providing support and guidance including trips to foreign locations.
             - Applied Design Thinking principles to product development.
             - Practiced Agile methodologies, Scrum, collaborating with multiple teams.
-            - Participated in all stages of the software development lifecycle, from requirements analysis to design,
-                            implementation, testing, and deployment.
-            - Main technologies: Javascript, Node, Angular, SAP UI5, mongo, gulp, git.
+            - Participated in all stages of the software development lifecycle, from requirements analysis to design, implementation, testing, and deployment.
+            - Worked on SAP BUILD.me, a low-code development solution.
+            - Main technologies: Javascript, Node, Angular, SAP UI5, mongo, gulp, git/github.
       - role: Software Engineer
         time: 2010 - 2012
         company: SAP labs, Paris
@@ -125,14 +124,23 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: AI Developer Foundation Program
+          start: 2025
+          organization: SAP
+          credentialurl: https://www.credly.com/badges/1c870a94-1ed9-4698-af19-1e4640e5fd52/public_url
+          credentialname: SAP
+          details: |
+              - Successfully completed the AI Developer Foundation Program.
+              - Equipped with AI-first mindset and practical skills for developing AI use cases.
+              - Skills validated: Artificial Intelligence, Generative AI Day-to-day Practice, Software Development Life Cycle.
+              - Program designed to upskill development teams in adopting AI technologies.
         - name: SAP Certified - Integration Developer
           start: 2024
           organization: SAP
           credentialurl: www.credly.com/badges/c4c1139e-656a-4f8b-ba71-8b6f01fa7aa8/public_url
           credentialname: Credly 
           details: |
-            Fundamental and core knowledge required of the SAP Integration Developer profile.
-
+            Successfully completed the SAP Certified - Integration Developer program.
         - name: Exploring the SAP Business AI Portfolio
           start: 2024
           organization: SAP
@@ -142,21 +150,17 @@ certifications:
               - Understands key components of SAP Business AI strategy including Joule, AI Foundation, and Generative AI Hub.
               - Knowledgeable about ethical AI principles core to SAP's AI strategy and development practices.
               - Able to articulate and pitch the value of SAP Business AI to stakeholders.
-
-        - name: AI Developer Foundation Program
+        - name: SAP Certified - Integration Developer
           start: 2024
           organization: SAP
-          credentialname: SAP Learning
+          credentialurl: www.credly.com/badges/c4c1139e-656a-4f8b-ba71-8b6f01fa7aa8/public_url
+          credentialname: Credly 
           details: |
-              - Successfully completed the AI Developer Foundation Program.
-              - Equipped with AI-first mindset and practical skills for developing AI use cases.
-              - Skills validated: Artificial Intelligence, Generative AI Day-to-day Practice, Software Development Life Cycle.
-              - Program designed to upskill development teams in adopting AI technologies.
-
+            Fundamental and core knowledge required of the SAP Integration Developer profile.
         - name: AI & Machine Learning Program
           start: 2019
           end: 2020
-          organization: École Polytechnique Executive Education
+          organization: École Polytechnique X Executive Education
           credentialurl: www.smartcertificate.com/SmartDiploma/Default.aspx?WybbYHUKwiOAW2RsQcJFBBu1TVZIFW%2fMSNNN9vekixl0UU2cUuDdVEKxrxVSrXQv#
           credentialname: smartcertificate
           details: |
