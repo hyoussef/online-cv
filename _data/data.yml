@@ -55,7 +55,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Expert/staff Software Engineer with 16 years of experience in developing innovative software solutions for enterprise applications at SAP. I have a proven record of success across major cloud projects (SAP BTP Platform) including SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, and SAP Fiori. Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, Node.js. Specialized in AI and Machine Learning with 140+ hours of formal training from École Polytechnique paris X since 2019, complemented by SAP Business AI certifications and AI Developer Foundation Program. 
+      
+      Principal/staff Software Engineer with 16 years of experience in developing innovative software solutions for enterprise-level applications at SAP. I have a proven record of success across major cloud projects (SAP BTP Platform) including SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, and SAP Fiori.
+      Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, Node.js.
+      Expertise in AI and Machine Learning, supported by over 140 hours of formal training at École Polytechnique Paris X since 2019, as well as SAP Business AI certifications and completion of the AI Developer Foundation Program.
 
 education:
     title: Education
@@ -80,25 +83,26 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Expert/staff Software Engineer
+      - role: Principal/staff Software Engineer
         time: 2019 - Present
-        company: SAP France, Paris
+        company: SAP Ariba, Paris
         details: |
-          Led development efforts in cloud, multi-tiered, and microservice architecture projects on the SAP BTP cloud platform.
-            - Technical planning, proof of concepts, technical backlog implementation, and sizing.
-            - Develop and hands on sap cloud solutions: SAP Ariba Central Invoice Management (CIM) and SAP Ariba Procurement Planning (PP).
-            - Collaboration and coordination in a multicultural environment with cross-functional teams spanning various disciplines, including development, design, testing, and product management in AGILE environment.
+          Contributed to the development efforts of the Next Gen Ariba Procurement Solutions on the SAP BTP cloud platform:
+            - SAP Ariba Central Invoice Management (CIM): Automation of supplier invoice processing by AI/OCR, more than 10 scrum teams.
             - Co-innovated SAP Ariba Procurement Planning (PP) with Volkswagen: co-innovation project including 3 internals scrum teams.
-            - SAP Ariba Central Invoice Management (CIM): more than 140 developer, product managers, UX, QAs.
-            - Conducted pair programming sessions and performed code reviews.
-            - Implemented DevOps practices using CICD, Deploy With Confidence DWC, pipelines, Dynatrace and Kibana.
+            - cloud, multi-tiered, and microservice architecture on the SAP BTP cloud platform.
+            - hands on : Technical planning , elaboration and implementation of proof of concepts, backlog sizing and implementation.
+            - Collaboration in a multicultural environment with cross-functional teams.
+            - Pair programming, vibe coding (github copilot), code reviews.
+            - Frontrunner in evaluating and adopting new technologies and tools (cursor, github copilot).
+            - Implemented DevOps practices using CICD, Deploy With Confidence DWC, pipelines, Dynatrace, splunk and Kibana.
             - Technologies Used: SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP
                             Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data,
                             SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM), Node.js, JavaScript, SAP UI5,
                             CI/CD, DWC, Mocha, Gulp, Grunt, Git (enterprise), GitHub Copilot, Jenkins.
       - role: Senior Software Engineer
         time: 2013 - 2019
-        company: SAP France, Paris
+        company: SAP - User Experience and design, Paris
         details: |
           Developed SAP Fiori internally: Fiori is a framework for building SAP applications using SAP UI5. It is a modern, responsive, and user-friendly Javascript framework for building SAP applications.
             - Mentor teams on SAP UI5 and Fiori development.
