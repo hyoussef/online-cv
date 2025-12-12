@@ -56,8 +56,8 @@ career-profile:
     title: Career Profile
     summary: |
       
-      Principal/staff Software Engineer with 16 years of experience in developing innovative software solutions for enterprise-level applications at SAP. I have a proven record of success across major cloud projects (SAP BTP Platform) including SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, and SAP Fiori.
-      Proficient in technologies like CloudFoundry, SAP UI5, JavaScript, Node.js.
+      Principal/staff Software Engineer with 16 years of experience in developing innovative software solutions for enterprise-level applications at SAP. I have a proven record of success across major cloud projects (SAP BTP Platform) including Next Gen Ariba Procurement Solutions (SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning), and SAP Fiori.
+      Proficient in technologies like SAP BTP (Cloud Foundry), SAP UI5, JavaScript, Node.js.
       Expertise in AI and Machine Learning, supported by over 140 hours of formal training at École Polytechnique Paris X since 2019, as well as SAP Business AI certifications and completion of the AI Developer Foundation Program.
 
 education:
@@ -87,7 +87,7 @@ experiences:
         time: 2019 - Present
         company: SAP Ariba, Paris
         details: |
-          Contributed to the development efforts of the Next Gen Ariba Procurement Solutions on the SAP BTP cloud platform:
+          Contributed to the development efforts of the Next Gen SAP Ariba Procurement Solutions:
             - SAP Ariba Central Invoice Management (CIM): Automation of supplier invoice processing by AI/OCR, more than 10 scrum teams.
             - Co-innovated SAP Ariba Procurement Planning (PP) with Volkswagen: co-innovation project including 3 internals scrum teams.
             - cloud, multi-tiered, and microservice architecture on the SAP BTP cloud platform.
@@ -97,19 +97,16 @@ experiences:
             - Frontrunner in evaluating and adopting new technologies and tools (cursor, github copilot).
             - Implemented DevOps practices using CICD, Deploy With Confidence DWC, pipelines, Dynatrace, splunk and Kibana.
             - Technologies Used: SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP
-                            Fiori, SAP S/4HANA, SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning, SAP Master Data,
-                            SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM), Node.js, JavaScript, SAP UI5,
+                            Fiori, SAP S/4HANA, SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM), Node.js, JavaScript, SAP UI5,
                             CI/CD, DWC, Mocha, Gulp, Grunt, Git (enterprise), GitHub Copilot, Jenkins.
       - role: Senior Software Engineer
         time: 2013 - 2019
         company: SAP - User Experience and design, Paris
         details: |
-          Developed SAP Fiori internally: Fiori is a framework for building SAP applications using SAP UI5. It is a modern, responsive, and user-friendly Javascript framework for building SAP applications.
+          Contributed to the development of SAP Fiori:
             - Mentor teams on SAP UI5 and Fiori development.
             - Engaged in task-force missions, providing support and guidance including trips to foreign locations.
-            - Applied Design Thinking principles to product development.
             - Practiced Agile methodologies, Scrum, collaborating with multiple teams.
-            - Participated in all stages of the software development lifecycle, from requirements analysis to design, implementation, testing, and deployment.
             - Worked on SAP BUILD.me, a low-code development solution.
             - Main technologies: Javascript, Node, Angular, SAP UI5, mongo, gulp, git/github.
       - role: Software Engineer
@@ -119,7 +116,7 @@ experiences:
           Developed Business Planning and Consolidation 10 (BPC10) software for Enterprise Performance Management (EPM).
       - role: Junior Software Engineer
         time: 2009 - 2010
-        company: SAP labs, Paris
+        company: SAP labs, Sophia Antipolis / Mougins
         details: |
           Built a non-regression test suite for the SAP Solution Manager product.
             - Using technologies including ABAP, Web Dynpro, ABAP Workbench, SAP Solution Manager, and XML.
@@ -135,9 +132,8 @@ certifications:
           credentialname: SAP
           details: |
               - Successfully completed the AI Developer Foundation Program.
-              - Equipped with AI-first mindset and practical skills for developing AI use cases.
+              - Practical skills for developing AI use cases.
               - Skills validated: Artificial Intelligence, Generative AI Day-to-day Practice, Software Development Life Cycle.
-              - Program designed to upskill development teams in adopting AI technologies.
         - name: SAP Certified - Integration Developer
           start: 2024
           organization: SAP
@@ -150,17 +146,8 @@ certifications:
           organization: SAP
           credentialname: SAP Learning
           details: |
-              - Successfully completed the Learning Journey "Exploring SAP Business AI Portfolio".
               - Understands key components of SAP Business AI strategy including Joule, AI Foundation, and Generative AI Hub.
               - Knowledgeable about ethical AI principles core to SAP's AI strategy and development practices.
-              - Able to articulate and pitch the value of SAP Business AI to stakeholders.
-        - name: SAP Certified - Integration Developer
-          start: 2024
-          organization: SAP
-          credentialurl: www.credly.com/badges/c4c1139e-656a-4f8b-ba71-8b6f01fa7aa8/public_url
-          credentialname: Credly 
-          details: |
-            Fundamental and core knowledge required of the SAP Integration Developer profile.
         - name: AI & Machine Learning Program
           start: 2019
           end: 2020
@@ -178,11 +165,7 @@ certifications:
           organization: SAP   
           details: |
             The curriculum is a blended SAP learning program for Development Experts:
-              - Software Engineering
-              - Development Processes
-              - Architecture Basics
-              - Trends in Enterprise Software and SAP Technologies
-              - Influencing without Authority
+              - Software Engineering, Development Processes, Architecture Basics, Trends in Enterprise Software and SAP Technologies, Influencing without Authority.
 
 projects:
     title: Projects
@@ -190,16 +173,14 @@ projects:
     assignments:
       - title: SAP Ariba Central Invoice Management
         link: "#hook"
-        tagline: "SAP Ariba Central Invoice Management on SAP BTP provides a unified solution for receiving and managing supplier invoices, with connection to different backend systems. "
+        tagline: "SAP Ariba Central Invoice Management on SAP BTP provides a unified solution for receiving and managing supplier invoices leveraging AI/OCR capabilities, with connection to different backend systems. "
 
       - title: SAP Ariba Procurement Planning
         link: "#"
-        tagline: "SAP Ariba Procurement Planning is a cloud-based solution that was designed to help you plan your procurement activities with regard to the time schedule, as well as the investment planning of items based on a central bill of material. This product enables you to plan the sourcing of items from an early stage to ensure timely procurement before the manufacturing process starts."
-
+        tagline: "SAP Ariba Procurement Planning is a cloud-based solution that was designed to help you plan your procurement activities with regard to the time schedule, as well as the investment planning of items based on a central bill of material."
       - title: SAP Fiori  
         link: "#"
-        tagline: "Fiori is the the new SAP Paradigm to transform the SAP User Experience. Participated to the launch of SAP Fiori. The initial release of Fiori included 25 apps for various business functions such as self-service tasks."
-
+        tagline: Fiori is the the new SAP Paradigm to transform the SAP User Experience. Participated to the launch of SAP Fiori. The initial release of Fiori included 25 apps for various business functions such as self-service tasks.
       - title: SAP BUILD.me
         link: "#"
         tagline: "Low-code templating tool for SAP Fiori apps. It allows users to create Fiori apps by dragging and dropping UI elements."
