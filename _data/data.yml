@@ -9,14 +9,14 @@ sidebar:
 
     # Profile information
     name: Houssem YOUSSEF
-    tagline: SAP Development Expert
+    tagline: Principal Software Engineer
     avatar: cv_.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: youssef.houssem@gmail.com
     phone:  +33(0) 6 33192445
     timezone: GMT+1
-    citizenship: Français
+    citizenship: French
     website:  www.credly.com/users/houssem-youssef #do not add http://
     linkedin: yhoussem
     xing: # add your nickname without 'xing.com/profile/'
