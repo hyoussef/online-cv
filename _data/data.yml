@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Proven Principal/staff Software Engineer with 16 years of experience in developing innovative software solutions for enterprise-level applications at SAP. I have record of success across major cloud projects (SAP BTP Platform) including Next Gen Ariba Procurement Solutions (SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning), and SAP Fiori. Proficient in technologies like SAP BTP (Cloud Foundry), SAP UI5, JavaScript, Node.js. Expertise in Al and Machine Learning, supported by over 140 hours of formal training at École Polytechnique Paris X since 2019, as well as SAP Business Al certifications and completion of the Al Developer Foundation Program. 
+      Proven Principal staff Software Engineer with 16 years of experience in developing innovative software solutions for enterprise-level applications at SAP. I have record of success across major cloud projects (SAP BTP Platform) including Next Gen Ariba Procurement Solutions (SAP Ariba Central Invoice Management, SAP Ariba Procurement Planning), and SAP Fiori. Proficient in technologies like SAP BTP (Cloud Foundry), SAP UI5, JavaScript, Node.js. Expertise in Al and Machine Learning, supported by over 140 hours of formal training at École Polytechnique Paris X since 2019, as well as SAP Business Al certifications and completion of the Al Developer Foundation Program. 
 education:
     title: Education
     info:
@@ -79,13 +79,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Principal/staff Software Engineer
+      - role: Principal Software Engineer
         time: 2019 - Present
         company: SAP Ariba, Paris
         details: |
           Design, develop, and operate scalable, secure, and reliable enterprise applications that drive business success in the Next Gen SAP Ariba Procurement Solutions:
             - delivery of high-quality, scalable, and secure cloud solutions (multi-tiered, and microservice architecture on the SAP BTP cloud platform).
-            - hands on : Technical planning , elaboration and implementation of proof of concepts, backlog sizing and implementation.
+            - hands on: Technical planning , elaboration and implementation of proof of concepts, backlog sizing and implementation.
             - efficient coding, testing, and collaboration with cross-functional teams to continuously optimize application performance, security, and user experience.
             - Pair programming, vibe coding (github copilot), code reviews.
             - Frontrunner in evaluating and adopting new technologies and tools (cursor, github copilot).
