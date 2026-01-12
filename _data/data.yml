@@ -83,15 +83,15 @@ experiences:
         time: 2019 - Present
         company: SAP Ariba, Paris
         details: |
-          Contributed to the development efforts of the Next Gen SAP Ariba Procurement Solutions:
-            - SAP Ariba Central Invoice Management (CIM): Automation of supplier invoice processing by AI/OCR, more than 10 scrum teams.
-            - Co-innovated SAP Ariba Procurement Planning (PP) with Volkswagen: co-innovation project including 3 internals scrum teams.
-            - cloud, multi-tiered, and microservice architecture on the SAP BTP cloud platform.
+          Design, develop, and operate scalable, secure, and reliable enterprise applications that drive business success in the Next Gen SAP Ariba Procurement Solutions:
+            - delivery of high-quality, scalable, and secure cloud solutions (multi-tiered, and microservice architecture on the SAP BTP cloud platform).
             - hands on : Technical planning , elaboration and implementation of proof of concepts, backlog sizing and implementation.
-            - Collaboration in a multicultural environment with cross-functional teams.
+            - efficient coding, testing, and collaboration with cross-functional teams to continuously optimize application performance, security, and user experience.
             - Pair programming, vibe coding (github copilot), code reviews.
             - Frontrunner in evaluating and adopting new technologies and tools (cursor, github copilot).
             - Implemented DevOps practices using CICD, Deploy With Confidence DWC, pipelines, Dynatrace, splunk and Kibana.
+            - SAP Ariba Central Invoice Management (CIM): Automation of supplier invoice processing by AI/OCR, more than 10 scrum teams.
+            - Co-innovated SAP Ariba Procurement Planning (PP) with Volkswagen: co-innovation project including 3 internals scrum teams.
             - Technologies Used: SAP Cloud (BTP), SAP CAP CDS (Cloud Programming Model), SAP HANA, SAP
                             Fiori, SAP S/4HANA, SAP MDI, SAP MDCS, SAP MDO, SAP DWC, SAP Personal Data Integration (RGPD/PDM), Node.js, JavaScript, SAP UI5,
                             CI/CD, DWC, Mocha, Gulp, Grunt, Git (enterprise), GitHub Copilot, Jenkins.
